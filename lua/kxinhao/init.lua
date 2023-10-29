@@ -1,2 +1,2 @@
 require("kxinhao.remap")
-print("hello kxinhao")
+require("kxinhao.set")
