@@ -1,2 +1,2 @@
-require("kxinhao.remap")
 require("kxinhao.set")
+require("kxinhao.remap")
